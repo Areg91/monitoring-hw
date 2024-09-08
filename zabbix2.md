@@ -4,21 +4,21 @@
 
 
 
-![Иллюстрация к заданию 1](https://github.com/Areg91/monitoring-hw/raw/main/image/image1.png)
-
+![Иллюстрация к заданию 1](image/image1.jpg)
+image/image1.jpg
 
 ---
 
 ### Задание 2
 
-![Иллюстрация к заданию 2](https://github.com/Areg91/monitoring-hw/raw/main/image/image2.png)
+![Иллюстрация к заданию 2](image/image2.jpg)
 
 ---
 
 ### Задание 3
 
 
-![Иллюстрация к заданию 3](https://github.com/Areg91/monitoring-hw/raw/main/image/image3.png)
+![Иллюстрация к заданию 3](image/image3.jpg)
 
 
 ---
@@ -26,4 +26,4 @@
 ### Задание 4
 
 
-![Иллюстрация к заданию 4](https://github.com/Areg91/monitoring-hw/raw/main/image/image4.png)
+![Иллюстрация к заданию 4](image/image4.jpg)
